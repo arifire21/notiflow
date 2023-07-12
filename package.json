@@ -1,5 +1,5 @@
 {
-  "name": "archive-checklist",
+  "name": "notiflow",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
@@ -14,7 +14,10 @@
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.8",
-    "react-native-share-menu": "^6.0.0"
+    "react-native-share-menu": "^6.0.0",
+    "expo-notifications": "~0.18.1",
+    "typescript": "^4.9.4",
+    "@types/react": "~18.0.27"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

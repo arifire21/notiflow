@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "archive-checklist",
-    "slug": "archive-checklist",
+    "name": "notiflow",
+    "slug": "notiflow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
